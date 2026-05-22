@@ -1,0 +1,5 @@
+Learn Python
+Understand ML algorithms
+Build ML projects
+Read ML research papers
+Join ML community
